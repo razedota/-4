@@ -1,4 +1,4 @@
-const API_URL = 'https://6aff0c363a0e70bc8d54813c.mockapi.io/:endpoint';
+const API_URL = 'https://6aff0c363a0e70bc8d54813c.mockapi.io/comments';
 
 const taskInput = document.getElementById('task-input');
 const addBtn = document.getElementById('add-btn');
